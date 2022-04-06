@@ -1,7 +1,7 @@
 Hi, we are Group Ugras and this is a detailed instruction of Diyo App.
 
 0.1 WHAT IS DIYO?
-First of all Diyo is a Social Media app that you can ask anything anyone
+First of all Diyo is a Social Media app that you can ask anything to anyone
 and anytime anonymously.In addition to this, you can send a message to your friends by using
 their 'ChattingID's.
 
